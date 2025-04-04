@@ -1,4 +1,4 @@
-name: Build AppImage
+name: Build New AppImage
 # on:
 #   workflow_dispatch:
 #   schedule:
